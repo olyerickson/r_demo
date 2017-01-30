@@ -3,3 +3,5 @@ Following along with "Version Control, File Sharing, and Collaboration Using Git
 This is a new line added in R Studio
 
 Another line
+
+Yet another line...
